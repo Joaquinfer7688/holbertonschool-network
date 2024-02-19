@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Display that listening port + PID and name the program
+sudo netstat -1p
